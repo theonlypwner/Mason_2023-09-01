@@ -1,0 +1,3 @@
+This repo is licensed under the GPL v3, except for `nacl-fast.min.js` and `nacl-util.min.js`, which are licensed under the Unlicense license.
+
+They were copied from https://github.com/dchest/tweetnacl-js and https://github.com/dchest/tweetnacl-util-js
